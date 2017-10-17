@@ -1,0 +1,11 @@
+C:\CenturyLink\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp2.0\CodeChallenge.deps.json
+C:\CenturyLink\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp2.0\CodeChallenge.runtimeconfig.json
+C:\CenturyLink\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp2.0\CodeChallenge.runtimeconfig.dev.json
+C:\CenturyLink\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp2.0\CodeChallenge.dll
+C:\CenturyLink\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp2.0\CodeChallenge.pdb
+C:\CenturyLink\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp2.0\CodeChallenge.csprojResolveAssemblyReference.cache
+C:\CenturyLink\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp2.0\CodeChallenge.csproj.CoreCompileInputs.cache
+C:\CenturyLink\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp2.0\CodeChallenge.AssemblyInfoInputs.cache
+C:\CenturyLink\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp2.0\CodeChallenge.AssemblyInfo.cs
+C:\CenturyLink\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp2.0\CodeChallenge.dll
+C:\CenturyLink\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp2.0\CodeChallenge.pdb
